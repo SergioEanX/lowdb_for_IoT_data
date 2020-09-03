@@ -1,0 +1,17 @@
+{
+  "name": "test_lowdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testLowDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "lowdb": "^1.0.0",
+    "moment": "^2.27.0",
+    "random-number": "0.0.9"
+  }
+}
